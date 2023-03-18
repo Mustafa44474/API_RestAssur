@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-15T23:52:41Z" name="Default suite" finished-at="2023-03-15T23:52:44Z" duration-ms="3127">
+    <groups>
+    </groups>
+    <test started-at="2023-03-15T23:52:41Z" name="Default test" finished-at="2023-03-15T23:52:44Z" duration-ms="3127">
+      <class name="Rest_Assur_Test.CreateDatainInDBPost">
+        <test-method signature="CreatedNewRecorinDB()[pri:0, instance:Rest_Assur_Test.CreateDatainInDBPost@ed7f8b4]" started-at="2023-03-15T23:52:41Z" name="CreatedNewRecorinDB" finished-at="2023-03-15T23:52:44Z" duration-ms="3105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatedNewRecorinDB -->
+      </class> <!-- Rest_Assur_Test.CreateDatainInDBPost -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
